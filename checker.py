@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bbin/env /zopt/src/validator/.venv/bin/python
 # -*- coding: utf-8 -*- vim: set fileencoding=utf-8 :
 
 # Copyright (c) 2019 Mozilla Foundation
